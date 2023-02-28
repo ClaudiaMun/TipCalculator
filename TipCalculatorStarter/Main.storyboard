@@ -216,11 +216,11 @@
                     </view>
                     <connections>
                         <outlet property="billAmountTextField" destination="jjG-1r-0Or" id="9D1-77-VCy"/>
-                        <outlet property="headerView" destination="uDI-L1-xBa" id="BHl-sb-MRv"/>
+                        <outlet property="headerView" destination="uae-ci-apE" id="Wn1-rq-Iru"/>
                         <outlet property="inputCardView" destination="5Gz-Rc-0Zm" id="FFs-xi-zFo"/>
                         <outlet property="outputCardView" destination="6ru-Oy-0Jj" id="h6f-PW-MdD"/>
                         <outlet property="resetButton" destination="twP-UX-B4R" id="WvU-py-Q9v"/>
-                        <outlet property="siteLabel" destination="uDI-L1-xBa" id="Ikm-8s-qN1"/>
+                        <outlet property="siteLabel" destination="uDI-L1-xBa" id="Xvr-kc-8C1"/>
                         <outlet property="themeSwitch" destination="waK-vR-IBT" id="1LQ-pr-Y12"/>
                         <outlet property="tipAmountLabel" destination="1Cs-GC-1Nk" id="TYG-zK-BEN"/>
                         <outlet property="tipAmountTitleLabel" destination="Odz-t3-EOK" id="CVM-f1-6Tr"/>
