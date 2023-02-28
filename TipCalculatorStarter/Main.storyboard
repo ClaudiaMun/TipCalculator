@@ -34,7 +34,7 @@
                                         </connections>
                                     </switch>
                                 </subviews>
-                                <color key="backgroundColor" name="tcSeafoamGreen"/>
+                                <color key="backgroundColor" name="tcWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="waK-vR-IBT" secondAttribute="trailing" constant="24" id="GoI-6W-BWh"/>
                                     <constraint firstItem="waK-vR-IBT" firstAttribute="centerY" secondItem="uae-ci-apE" secondAttribute="centerY" id="PCn-xd-0TY"/>
@@ -185,7 +185,7 @@
                                 </constraints>
                                 <color key="tintColor" name="tcCharcoal"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Button">
+                                <buttonConfiguration key="configuration" style="plain" title="Reset">
                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="13"/>
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
